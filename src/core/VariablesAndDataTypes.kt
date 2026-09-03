@@ -15,7 +15,7 @@ fun main() {
     val tvSpeakers = TVSpeakers()
 
     tvSpeakers.speakerVolume1 = 500
-    println(tvSpeakers.speakerVolume3)
+    println(tvSpeakers.speakerVolume1)
 
     tvSpeakers.speakerVolume2 = 1000
     println(tvSpeakers.speakerVolume2)
